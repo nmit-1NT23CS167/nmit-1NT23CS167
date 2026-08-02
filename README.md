@@ -66,7 +66,7 @@
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nmit-1NT23CS167&theme=merko&hide_border=true&background=0d1a12&ring=00C9A7&fire=FF6B6B&currStreakLabel=00C9A7" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nmit-1NT23CS167&theme=merko&hide_border=true&background=003A57&ring=F2700C&fire=FF6B6B&currStreakLabel=03FFD5" width="60%"/>
 
 </div>
 
