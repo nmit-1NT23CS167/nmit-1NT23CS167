@@ -68,8 +68,17 @@
 
 <div align="center">
 
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nmit-1NT23CS167&theme=merko&hide_border=true&background=003A57&ring=F2700C&fire=FF6B6B&currStreakLabel=03FFD5" width="60%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=nmit-1NT23CS167&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nmit-1NT23CS167&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nmit-1NT23CS167&theme=tokyonight" width="95%"/>
+
+</div>
 
 </div>
 
